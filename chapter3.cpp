@@ -25,6 +25,7 @@ int main() {
   cout << "Final:" << final << endl;
   cout << "Total:" << (q / 3) + (mid + final) << endl;
   cout << "Your score is" << (((q / 3) + (mid + final) >= 50) ? "Pass \n" : "fail \n");
-
+  
+  system("pause")
   return 0;
 }
