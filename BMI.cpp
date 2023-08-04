@@ -7,7 +7,7 @@
 	int age;
 	string gender;
 
-	cout <<"Enter Age : ";
+	cout <<"Enter Age    : ";
 	cin >>age;
 	cout <<"Enter Gender : ";
 	cin >> gender;
