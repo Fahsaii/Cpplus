@@ -34,8 +34,4 @@ int main()
     cout<<"Average   = "<<(float)total/4<<endl;
 
 
-    system("pause");
-    return 0;
-    
-
 }
