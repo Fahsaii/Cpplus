@@ -24,7 +24,7 @@ int main()
         total = total+num[i];
         if(num[i] > max)
             max = num[i];
-        if(num[i] < min)
+        if(num[i] <= min)
             min = num[i];
     }
     cout<<setfill('-')<<setw(30)<<" "<<endl;
